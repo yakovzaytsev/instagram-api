@@ -1,0 +1,6 @@
+*~
+__pycache__
+dist
+instagram_api.egg-info
+.DS_Store
+.cache
